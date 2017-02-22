@@ -11,7 +11,7 @@ else:
   # MODIFY FOR YOUR PERSONAL COMPUTER SETUP!
   #  USING THE FULL PATH TO MarsMYY402_4_5.jar IN YOUR COMPUTER
   ##########################################
-  marsJar = "/home/efthym/t/ca_course/MarsMYY402_4_5.jar"
+  marsJar = "/Users\ΕΛΕΝΗ ΧΡΙΣΤ ΑΝΤΩΝΙΟΥ\Desktop\arc\MarsMYY402_4_5.jar"
 
 matric = 1000
 tests = [ \
